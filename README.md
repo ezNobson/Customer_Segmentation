@@ -51,16 +51,3 @@ The Titanic dataset contains information about passengers including:
 - Matplotlib and Seaborn for visualization
 - NumPy for numerical operations
 
-## How to Run
-1. Ensure you have Python installed
-2. Install required libraries:
-   ```
-   pip install pandas numpy matplotlib seaborn
-   ```
-3. Download the Titanic dataset
-4. Run the Jupyter notebook
-
-## Future Improvements
-- Implement statistical tests
-- Add more feature engineering
-- Develop predictive models
